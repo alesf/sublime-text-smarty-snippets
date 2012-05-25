@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[|escape:"${1:html|htmlall|url|quotes|hex|hexentity|javascript}" ]]></content>
+  <description>Escape</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>|esc</tabTrigger>
+</snippet>

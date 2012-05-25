@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[|replace:"${1:needle}":"$2" ]]></content>
+  <description>Replace</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>|replace</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[|default:"$1" ]]></content>
+  <description>Default</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>|def</tabTrigger>
+</snippet>

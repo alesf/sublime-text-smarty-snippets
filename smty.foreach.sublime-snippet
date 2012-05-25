@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{foreach from=\$${1:varname} item=${2:item}${3: key=${4:key}}${5: name=${6:loop1}}}
+	$0
+{/foreach]]></content>
+  <description>Foreach</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>{foreach</tabTrigger>
+</snippet>

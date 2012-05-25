@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{if $1}
+	$0
+{/if]]></content>
+  <description>If</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>{if</tabTrigger>
+</snippet>

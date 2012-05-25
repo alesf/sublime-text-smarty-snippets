@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{strip}
+	$1
+{/strip]]></content>
+  <description>Strip</description>
+  <scope>source.smarty</scope>
+  <tabTrigger>{strip</tabTrigger>
+</snippet>
